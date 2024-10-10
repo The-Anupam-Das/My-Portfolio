@@ -1,0 +1,17 @@
+[
+  {
+    "title": "GitHub Finder",
+    "imageSrc": "projects/finder.png",
+    "description": "The GitHub Profile Finder project is a web application that allows users to search for GitHub profiles by username.",
+    "skills": ["HTML", "CSS", "JavaScript","React.Js","Context API"],
+    "demo": "https://das-github-profile.netlify.app/",
+    "source": "https://github.com/The-Anupam-Das/Github-Profile-Finder?tab=readme-ov-file"
+  },
+  {
+    "title": "Object Detection Model",
+    "imageSrc": "projects/object.png",
+    "description": "The object detection model project identifies and locates objects in real-time. Utilized expertise in computer vision, Artificial Intelligence, and Machine Learning.",
+    "skills": ["Python", "OpenCV"],
+    "source": "https://github.com/The-Anupam-Das/Object-Detection-Model"
+  }
+]
