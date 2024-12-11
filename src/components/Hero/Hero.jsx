@@ -12,7 +12,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I am a enthusiastic professional, committed to new opportunities and challenges. My passion for continuous learning drives me to enhance my skills and deliver exceptional results. 
         </p>
-        <a href={getImageUrl("./public/Resume.pdf")} className={styles.contactBtn} target="_blank" rel="noopener noreferrer">
+        <a href={getImageUrl("CV/Resume.pdf")} className={styles.contactBtn} target="_blank" rel="noopener noreferrer">
           Check Resume
         </a>
       </div>
